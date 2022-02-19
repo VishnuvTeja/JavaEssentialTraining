@@ -1,2 +1,2 @@
-# JavaEssentialTraining
-This is created for the javaLearning from scratch and reference 
+# JavaEssentialTraining2019
+Exercise files for LinkedIn Learning's course Java 11+ Essential Training
